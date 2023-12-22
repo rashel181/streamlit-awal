@@ -11,3 +11,4 @@ df = pd.DataFrame({
 })
 
 df
+st.table(df)
